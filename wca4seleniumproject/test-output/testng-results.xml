@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[a]]>
+    </line>
+    <line>
+      <![CDATA[b]]>
+    </line>
+    <line>
+      <![CDATA[g]]>
+    </line>
+    <line>
+      <![CDATA[i]]>
+    </line>
+    <line>
+      <![CDATA[k]]>
+    </line>
+    <line>
+      <![CDATA[h]]>
+    </line>
+    <line>
+      <![CDATA[p]]>
+    </line>
+    <line>
+      <![CDATA[z]]>
+    </line>
+    <line>
+      <![CDATA[m]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-24T12:18:31 IST" name="Default suite" finished-at="2023-01-24T12:18:31 IST" duration-ms="135">
+    <groups>
+    </groups>
+    <test started-at="2023-01-24T12:18:31 IST" name="Default test" finished-at="2023-01-24T12:18:31 IST" duration-ms="135">
+      <class name="TestNG2.PriorityClass">
+        <test-method signature="a()[pri:0, instance:TestNG2.PriorityClass@78e117e3]" started-at="2023-01-24T12:18:31 IST" name="a" finished-at="2023-01-24T12:18:31 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[a]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method signature="b()[pri:0, instance:TestNG2.PriorityClass@78e117e3]" started-at="2023-01-24T12:18:31 IST" name="b" finished-at="2023-01-24T12:18:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[b]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method signature="g()[pri:0, instance:TestNG2.PriorityClass@78e117e3]" started-at="2023-01-24T12:18:31 IST" name="g" finished-at="2023-01-24T12:18:31 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[g]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method signature="i()[pri:0, instance:TestNG2.PriorityClass@78e117e3]" started-at="2023-01-24T12:18:31 IST" name="i" finished-at="2023-01-24T12:18:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[i]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- i -->
+        <test-method signature="k()[pri:0, instance:TestNG2.PriorityClass@78e117e3]" started-at="2023-01-24T12:18:31 IST" name="k" finished-at="2023-01-24T12:18:31 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[k]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- k -->
+        <test-method signature="h()[pri:1, instance:TestNG2.PriorityClass@78e117e3]" started-at="2023-01-24T12:18:31 IST" name="h" finished-at="2023-01-24T12:18:31 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[h]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method signature="p()[pri:2, instance:TestNG2.PriorityClass@78e117e3]" started-at="2023-01-24T12:18:31 IST" name="p" finished-at="2023-01-24T12:18:31 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[p]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- p -->
+        <test-method signature="z()[pri:3, instance:TestNG2.PriorityClass@78e117e3]" started-at="2023-01-24T12:18:31 IST" name="z" finished-at="2023-01-24T12:18:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[z]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- z -->
+        <test-method signature="m()[pri:7, instance:TestNG2.PriorityClass@78e117e3]" started-at="2023-01-24T12:18:31 IST" name="m" finished-at="2023-01-24T12:18:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[m]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m -->
+      </class> <!-- TestNG2.PriorityClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
